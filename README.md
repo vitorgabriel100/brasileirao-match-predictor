@@ -9,6 +9,7 @@ Aplicação de Machine Learning para prever o resultado de partidas do Campeonat
 📌 Sobre o projeto
 
 O objetivo do projeto é prever a probabilidade de três possíveis resultados de uma partida:
+
 🏠 Vitória do mandante
 
 🤝 Empate
