@@ -1,0 +1,13 @@
+    projeto-previsao-ml/
+│
+├── data/
+│   └── campeonato-brasileiro-full.csv
+├── models/
+│   └── modelo.pkl
+├── src/
+│   ├── limpeza.py
+│   ├── treino.py
+│   └── previsao.py
+├── app.py
+├── requirements.txt
+└── README.md
